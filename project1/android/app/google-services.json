@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "252642422591",
+    "project_id": "vizuara-a8cb9",
+    "storage_bucket": "vizuara-a8cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252642422591:android:48d9c4c87854cba8382d8a",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252642422591-p48rri899ph4pooc14r4u2sp0gs93ger.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project1",
+            "certificate_hash": "ac614b0a0c53f57d09efd81f236b22d857cd259c"
+          }
+        },
+        {
+          "client_id": "252642422591-fsn9m0fom0fa2c2tneh91140k8lehvu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbkhoy_IVxXbQqfwQmpJU2axPSrAcU9wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252642422591-fsn9m0fom0fa2c2tneh91140k8lehvu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252642422591-sb1vdq28dl7436semmil9g3cs6jtif0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
